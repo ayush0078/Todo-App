@@ -1,0 +1,14 @@
+.header {
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: cornflowerblue;
+  padding: 0 5%;
+}
+
+.logo {
+  font-size: 2rem;
+  color: white;
+  font-weight: bold;
+}
